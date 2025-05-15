@@ -1,6 +1,7 @@
 # Leveraging Large Language Models on Healthcare Event Logs for Predictive Process Monitoring
 
-This repository contains materials related to the scientific article **"Leveraging Large Language Models on Healthcare Event Logs for Predictive Process Monitoring"**.
+This repository contains materials related to the scientific article **"Leveraging Large Language Models on Healthcare Event Logs for Predictive Process Monitoring"**.  
+
 Authors: Vladimiro Lovera Rulfi, Roberto Nai, Emilio Sulis, Luigi Di Caro, Laura Genga, Adriana Boccuzzi.  
 
 ## Abstract
