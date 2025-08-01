@@ -12,7 +12,6 @@ By reframing the prediction task as a text-based learning problem, this approach
 
 ## Repository Structure
 
-- `event_log/` — Event log used in this experiment.
 - `images/` — Figures and diagrams referenced in the article.
 - `README.md` — This file.
 
